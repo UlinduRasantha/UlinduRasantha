@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ulindu Rasantha</h1>
 
+
 ###
 
 <h3 align="center">**Fullstack Developer** | 🚀 Tech Explorer | 🎨 Problem Solver</h3>
+
+###
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
 
 ###
 

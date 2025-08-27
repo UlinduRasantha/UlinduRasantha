@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ulindu Rasantha</h1>
+<h1 align="center">Hi 👋, I'm Ulindu Rasantha  
+    &nbsp <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;</h1>
 
 
 ###
 
-<h3 align="center">**Fullstack Developer** | 🚀 Tech Explorer | 🎨 Problem Solver</h3>
+<h3 align="center">**Fullstack Developer** | 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp; Tech Explorer | 🎨 Problem Solver</h3>
 
 ###
 

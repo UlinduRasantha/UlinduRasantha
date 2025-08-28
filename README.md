@@ -4,7 +4,7 @@
 ###
 
 <h3 align="center">Fullstack Developer | 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp; Tech Explorer | 🎨 Problem Solver</h3>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; Tech Explorer | 🎨 Problem Solver</h3>
   </br>
 
   

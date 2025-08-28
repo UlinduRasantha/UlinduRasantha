@@ -97,6 +97,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/UlinduRasantha/UlinduRasantha/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+###
+
 
 | ![Ulindu's github stats](https://github-readme-stats.vercel.app/api?username=UlinduRasantha&show_icons=true&theme=tokyonight) | ![Ulindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UlinduRasantha&theme=tokyonight) |
 | --- | --- |
@@ -105,9 +113,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/UlinduRasantha/UlinduRasantha/output/snake.svg" alt="Snake animation" />
-
-###
 

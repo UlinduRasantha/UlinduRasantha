@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulindu Rasantha  
     &nbsp <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;</h1>
 
-
 ###
 
 <h3 align="center">**Fullstack Developer** | 
@@ -9,10 +8,11 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-<br><br>
+<img img align="right" top="500" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF"  >
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UlinduRasantha&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 - 🔭 I’m currently working on [URShow](https://github.com/UlinduRasantha/Movie-Tickets-Online-Booking-Website)
 
@@ -85,7 +85,6 @@
 
 ###
 
-[![Ulindu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UlinduRasantha&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Ulindu's github stats](https://github-readme-stats.vercel.app/api?username=UlinduRasantha&show_icons=true&theme=tokyonight) | ![Ulindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UlinduRasantha&theme=tokyonight) |
 | --- | --- |

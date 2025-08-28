@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 ###
 
@@ -85,14 +85,12 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+[![Ulindu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UlinduRasantha&theme=tokyonight)](https://git.io/praveenscience)
 
-###
+| ![Ulindu's github stats](https://github-readme-stats.vercel.app/api?username=UlinduRasantha&show_icons=true&theme=tokyonight) | ![Ulindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UlinduRasantha&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlinduRasantha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=UlinduRasantha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UlinduRasantha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UlinduRasantha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 

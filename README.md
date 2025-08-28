@@ -3,16 +3,27 @@
 
 ###
 
-<h3 align="center">**Fullstack Developer** | 
+<h3 align="center">Fullstack Developer | 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp; Tech Explorer | 🎨 Problem Solver</h3>
+  </br>
 
-###
+  
 
-<img img align="right" top="500" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF"  >
+
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UlinduRasantha&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+###
+
+<img img align="right" top="400" height="500" width="430" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF"  >
 
 - 🔭 I’m currently working on [URShow](https://github.com/UlinduRasantha/Movie-Tickets-Online-Booking-Website)
 
@@ -22,11 +33,11 @@
 
 - 📫 How to reach me **ulindurasantha23@gmail.com**
 
-- ⚡ Fun fact **🎮 Debugging feels like playing a video game—sometimes I win, sometimes the bug does 😎**
+- ⚡ Fun fact  🤖 I believe every commit tells a little story.
 
-  ###
+###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ###
 
@@ -69,6 +80,7 @@
 </div>
 
 ###
+
 
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 

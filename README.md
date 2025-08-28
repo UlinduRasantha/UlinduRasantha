@@ -19,11 +19,13 @@
 
 ###
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UlinduRasantha&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 ###
 
-<img img align="right" top="400" height="500" width="430" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF"  >
+
 
 - 🔭 I’m currently working on [URShow](https://github.com/UlinduRasantha/Movie-Tickets-Online-Booking-Website)
 
@@ -67,8 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />

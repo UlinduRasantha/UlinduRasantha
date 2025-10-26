@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UlinduRasantha](https://github.com/UlinduRasantha)
 
-- 📫 How to reach me **ulindurasantha23@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact  🤖 I believe every commit tells a little story.
 
